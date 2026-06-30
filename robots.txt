@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hkr-lfn-rwpe354.github.io/web-resources/sitemap.xml
